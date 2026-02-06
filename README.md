@@ -1,2 +1,18 @@
-# Heart-Disease-Analysis
-Beginner-friendly health analytics project exploring heart disease data using Python, pandas, Seaborn, and Matplotlib.
+
+# Heart Disease Data Analysis
+
+This beginner-friendly project explores a dataset of patients with heart disease indicators using Python, pandas, Seaborn, and Matplotlib.
+
+## Features
+- Cleaned and labeled dataset for readability
+- Visualized patient demographics (age, gender)
+- Analyzed heart disease prevalence
+- Explored relationship between age and maximum heart rate
+- Extracted simple insights for health analytics
+
+## Technologies
+- Python, pandas, matplotlib, seaborn
+- Google Colab
+
+## Repository
+[View Notebook](link-to-your-notebook)
